@@ -1,0 +1,9 @@
+.social-media{
+    background-color: gray;
+    border-radius: 0.5rem;
+}
+.media_link{
+    border: 3px solid yellow;
+    border-radius: 0.5rem;
+    margin: 10px;
+}
